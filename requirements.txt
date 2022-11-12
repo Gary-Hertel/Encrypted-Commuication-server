@@ -1,0 +1,15 @@
+aiohttp==3.7.4.post0
+aiosmtplib==1.1.6
+uvicorn==0.15.0
+fastapi==0.68.1
+starlette==0.14.2
+SQLAlchemy==1.4.26
+passlib==1.7.4
+pydantic==1.8.2
+python-jose==3.3.0
+python-multipart==0.0.5
+bcrypt==3.2.0
+pymysql==1.0.2
+requests==2.26.0
+websockets==9.1
+aiofiles==22.1.0
